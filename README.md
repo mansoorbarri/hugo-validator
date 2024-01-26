@@ -7,7 +7,7 @@ This Python script is designed to validate the readiness of a Hugo theme for sub
 Make sure you have `python` & `Git` install on your system & Run the script from the theme root directory: 
 
 ```
-git clone https://mansoorbarr.com/hugo-checker && python3 main.py
+git clone https://github.com/mansoorbarri/hugo-checker.git && python3 main.py
 ```
 
 ## Support
