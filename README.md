@@ -4,10 +4,21 @@ This Python script is designed to validate the readiness of a Hugo theme for sub
 
 ## Usage
 
-Make sure you have `python` & `Git` install on your system & Run the script from the theme root directory: 
+Make sure you have `python` & `Git` install on your system & run the following: 
 
+- Clone the script 
 ```
-git clone https://github.com/mansoorbarri/hugo-checker.git && python3 main.py
+git clone https://github.com/mansoorbarri/hugo-validator.git
+```
+
+- Install the requirements 
+```
+pip3 install -r requirements.txt
+```
+
+- Run the validator
+```
+python3 hugo-validator.py
 ```
 
 ## Support
