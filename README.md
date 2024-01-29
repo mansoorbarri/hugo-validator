@@ -15,8 +15,6 @@ Make sure you have `python` & `git` installed on your system before using the to
 
 *you might have to run the validator with `python` instead of `python3` especially in Windows.*
 
-## Overview
-
 ## Support
 - To morally and mentally support the project, make sure to leave a ⭐️!
 
