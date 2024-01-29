@@ -1,4 +1,2 @@
-os 
 toml
 requests
-urlparse
