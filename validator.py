@@ -4,17 +4,8 @@ import requests
 import re
 from urllib.parse import urlparse
 
-art = '''
-  M   M  BBBBB  
-  MM MM  B    B 
-  M M M  BBBBB  
-  M   M  B    B 
-  M   M  BBBBB  
-
-==== Mansoor Barri ====
-https://mansoorbarri.com
-'''
-print(art)
+response = requests.get("https://raw.githubusercontent.com/mansoorbarri/PythonScripts/main/ascii")
+print(response.text)
 
 def is_absolute_url(url):
     return bool(urlparse(url).scheme)
