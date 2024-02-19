@@ -1,4 +1,7 @@
-# Hugo Theme Submission Validation Script
+<h1 align="center">
+<img width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_of_Hugo_the_static_website_generator.svg/1024px-Logo_of_Hugo_the_static_website_generator.svg.png"><br>
+   Theme Submission Validation Script
+</h1>
 This Python script is designed to validate the readiness of a Hugo theme for submission by checking various requirements defined in the `theme.toml` & `README.md` files. The script ensures that essential metadata and links are correctly specified and functional.
 
 > [!IMPORTANT]
